@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "context-mode@context-mode": true,
+    "claude-mem@thedotmack": true,
+    "superpowers@claude-plugins-official": true
+  }
+}
